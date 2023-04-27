@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GPT4-Blog/static/css/main.1ae5326b.css",
+    "main.js": "/GPT4-Blog/static/js/main.8fc60a76.js",
+    "static/media/ai.png": "/GPT4-Blog/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/GPT4-Blog/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/GPT4-Blog/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/GPT4-Blog/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/GPT4-Blog/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/GPT4-Blog/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/GPT4-Blog/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/GPT4-Blog/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/GPT4-Blog/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/GPT4-Blog/index.html",
+    "main.1ae5326b.css.map": "/GPT4-Blog/static/css/main.1ae5326b.css.map",
+    "main.8fc60a76.js.map": "/GPT4-Blog/static/js/main.8fc60a76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ae5326b.css",
+    "static/js/main.8fc60a76.js"
+  ]
+}
